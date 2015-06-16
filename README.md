@@ -1,4 +1,8 @@
 # The extensible drawing editor Ipe
 
-This repository contains the Ipe webpage (at http://ipe.otfried.org), the
-issue tracker for Ipe, and downloads of the Ipe releases.
+This repository stores
+
+* downloads of each Ipe release
+* the issue tracker for Ipe (click Issues on the right)
+* the Ipe webpage (in the gh-pages branch)
+
