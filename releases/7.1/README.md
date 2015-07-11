@@ -3,10 +3,12 @@ Versions
 
 
 ipe-7.x.y-src.tar.gz:  Sources for building Ipe
+
 ipe-7.x.y-win.zip:     Binary package for Windows 7 and higher
+
 ipe-7.x.y-winxp.zip:   Binary package for Windows XP and Vista
-ipe-7.x.y-mac.dmg:     Binary package for Mac OS 10.8 or higher
-		       (may work on 10.6 and 10.7)
+
+ipe-7.x.y-mac.dmg:     Binary package for Mac OS 10.8 or higher (may work on 10.6 and 10.7)
 
 Ipe 7.1.8 (2015-07-11)
 ----------------------
