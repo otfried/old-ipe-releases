@@ -1,3 +1,11 @@
+Patch
+-----
+
+If you need the Voronoi Diagram ipelet on Windows in Ipe 7.1.8, unzip
+the file **patch-7.1.8-win.zip** at the same place where you unpacked
+Ipe.  It replaces *qvoronoi.dll* with a working version.
+
+
 Versions
 --------
 
