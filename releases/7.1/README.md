@@ -1,22 +1,23 @@
+Downloading
+-----------
+
+Click on the links below to download the packages.
+
+* [ipe-7.1.8-src.tar.gz](/otfried/ipe/raw/master/releases/7.1/ipe-7.1.8-src.tar.gz):  Sources for building Ipe
+* [ipe-7.1.8-win.zip](/otfried/ipe/raw/master/releases/7.1/ipe-7.1.8-win.zip): Binary package for Windows 7 and higher
+* [ipe-7.1.8-winxp.zip](/otfried/ipe/raw/master/releases/7.1/ipe-7.1.8-winxp.zip): Binary package for Windows XP and Vista
+* [ipe-7.1.7-mac.dmg](/otfried/ipe/raw/master/releases/7.1/ipe-7.1.8-mac.dmg): Binary package for Mac OS 10.8 or higher (may work on 10.6 and 10.7)
+
+
+
 Patch
 -----
 
 If you need the Voronoi Diagram ipelet on Windows in Ipe 7.1.8, unzip
-the file **patch-7.1.8-win.zip** at the same place where you unpacked
-Ipe.  It replaces *qvoronoi.dll* with a working version.
+the file [patch-7.1.8-win.zip](/otfried/ipe/raw/master/releases/7.1/patch-7.1.8-win.zip) at the same place where you unpacked Ipe.  It replaces *qvoronoi.dll* with a working version.
 
 
-Versions
---------
 
-
-ipe-7.x.y-src.tar.gz:  Sources for building Ipe
-
-ipe-7.x.y-win.zip:     Binary package for Windows 7 and higher
-
-ipe-7.x.y-winxp.zip:   Binary package for Windows XP and Vista
-
-ipe-7.x.y-mac.dmg:     Binary package for Mac OS 10.8 or higher (may work on 10.6 and 10.7)
 
 Ipe 7.1.8 (2015-07-11)
 ----------------------
