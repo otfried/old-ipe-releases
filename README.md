@@ -1,7 +1,7 @@
 # The extensible drawing editor Ipe
 
-This repository stores
+**Do not use this repository directly** unless you are familiar with git and github.
 
-* downloads of each Ipe release
-* the Ipe webpage (in the gh-pages branch)
+You can find download links for the current Ipe version on the Ipe homepage at:
 
+[http://ipe.otfried.org](http://ipe.otfried.org)
