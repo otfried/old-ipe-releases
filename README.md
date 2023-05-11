@@ -1,7 +1,6 @@
-# The extensible drawing editor Ipe
+# Archve of Ipe releases 7.2.24 ~ 7.2.26
 
-You can find download links for the sources as well as Windows
-packages and Mac OS X apps of the current Ipe version on the Ipe
-homepage at:
-
+For the current Ipe version, go to the Ipe homepage at
 [http://ipe.otfried.org](http://ipe.otfried.org)
+
+Or check the [Ipe repository](https://github.com/otfried/ipe) for the source code.
